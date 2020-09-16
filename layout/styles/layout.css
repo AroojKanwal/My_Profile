@@ -128,10 +128,11 @@ File: Layout CSS
 .first-img-class{
 	display: inline-block;
 margin-left: 350px;
-	height:332px;
+	height:250px;
 	width:250px;
 	border-style: solid;
 	border-radius: 10px;
+  border-color: #a37eba;
 }
 .interest{
 	margin-left: 40%;
